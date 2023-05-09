@@ -1,5 +1,5 @@
 {
-    "name": "lemonsqueezy/laravel",
+    "name": "Emericanec/lemon-pay",
     "description": "A package to easily integrate your Laravel application with Lemon Squeezy.",
     "keywords": ["laravel", "lemon squeezy", "billing"],
     "license": "MIT",
@@ -22,7 +22,7 @@
     "require": {
         "php": "~8.1.0|~8.2.0",
         "guzzlehttp/guzzle": "^7.0",
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^9.19",
         "moneyphp/money": "^4.0",
         "nesbot/carbon": "^2.0"
     },
